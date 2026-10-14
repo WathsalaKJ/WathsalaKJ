@@ -28,11 +28,11 @@ I build full-stack web and mobile apps, and I enjoy adding AI and machine learni
 React Native · Flask · PostgreSQL · Google Gemini API · Docker
 Mobile app that reads receipt photos with a vision LLM, categorizes spending automatically, and flags unusual expenses with scikit-learn anomaly detection.
 
-### ☀️ [EcoSync](REPLACE_WITH_ECOSYNC_REPO_LINK): Home Solar Output Forecaster
+### ☀️ [EcoSync](https://github.com/PraneepaTharushini/EcoSync/tree/Development): Home Solar Output Forecaster
 Next.js · FastAPI · PostgreSQL · scikit-learn
 Live weather-data pipeline plus a Random Forest model that cut prediction error from **38.8% to 14.4% MAPE**, with a per-user correction factor based on logged actual output.
 
-### 📊 [EPMS](REPLACE_WITH_EPMS_REPO_LINK): Employee Performance Management System
+### 📊 [EPMS](https://github.com/madhusiva19/pms/tree/dev-final): Employee Performance Management System
 Flask · Next.js · TypeScript · Supabase (PostgreSQL)
 Role-based performance system for a logistics company with a six-tier hierarchy. I built the Reports Module, the Potential Assessment workflow and a live bell curve analytics engine.
 
