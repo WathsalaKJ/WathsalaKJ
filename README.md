@@ -1,6 +1,6 @@
 # Hi, I'm Sanduni Wathsala 👋
 
-**Software Engineering undergraduate at the University of Moratuwa** (BSc Hons in Information Technology & Management), based in Colombo, Sri Lanka.
+**IT undergraduate at the University of Moratuwa** (BSc Hons in Information Technology & Management), based in Colombo, Sri Lanka.
 
 I build full-stack web and mobile apps, and I enjoy adding AI and machine learning to real products. I'm currently looking for a **software engineering internship** where I can contribute to real projects and learn from an experienced team.
 
